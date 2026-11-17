@@ -1,0 +1,55 @@
+
+[
+  {
+    "id": "dhanmondi-lake",
+    "name": "Dhanmondi Lake",
+    "area": "Dhanmondi",
+    "location": "Dhanmondi, Dhaka, Bangladesh",
+    "category": "tourist_spot",
+    "estimatedCost": 0,
+    "costType": "free",
+    "costNote": "No entry fee recorded in the dataset.",
+    "description": "A popular lakeside walking and relaxation spot.",
+    "openingHours": "Information unavailable",
+    "verified": true
+  },
+  {
+    "id": "abahani-club-field",
+    "name": "Abahani Club Field",
+    "area": "Dhanmondi",
+    "location": null,
+    "category": "playground",
+    "estimatedCost": 2000,
+    "costType": "estimated",
+    "costNote": "Assumed ৳0 entry cost for planning. Actual access conditions are not verified.",
+    "description": "A sports field in the Dhanmondi area.",
+    "openingHours": "Information unavailable",
+    "verified": false
+  },
+  {
+    "id": "dhanmondi-road-4-park",
+    "name": "Dhanmondi Road 4 Park",
+    "area": "Dhanmondi",
+    "location": null,
+    "category": "park",
+    "estimatedCost": 0,
+    "costType": "estimated",
+    "costNote": "Assumed ৳0 entry cost for planning. Actual entry fee is not verified.",
+    "description": "A neighborhood green space.",
+    "openingHours": "Information unavailable",
+    "verified": false
+  },
+  {
+    "id": "sultan-dine-dhanmondi",
+    "name": "Sultan's Dine Dhanmondi",
+    "area": "Dhanmondi",
+    "location": "Dhanmondi, Dhaka, Bangladesh",
+    "category": "restaurant",
+    "estimatedCost": 500,
+    "costType": "estimated",
+    "costNote": "Example estimated food budget of ৳500 per person. Actual menu prices may vary.",
+    "description": "A restaurant option for enjoying a meal during a Dhanmondi tour.",
+    "openingHours": "Information unavailable",
+    "verified": false
+  }
+]
